@@ -1,0 +1,8 @@
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Util\bin\Debug\netcoreapp2.1\Util.deps.json
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Util\bin\Debug\netcoreapp2.1\Util.dll
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Util\bin\Debug\netcoreapp2.1\Util.pdb
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Util\obj\Debug\netcoreapp2.1\Util.csproj.CoreCompileInputs.cache
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Util\obj\Debug\netcoreapp2.1\Util.AssemblyInfoInputs.cache
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Util\obj\Debug\netcoreapp2.1\Util.AssemblyInfo.cs
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Util\obj\Debug\netcoreapp2.1\Util.dll
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Util\obj\Debug\netcoreapp2.1\Util.pdb

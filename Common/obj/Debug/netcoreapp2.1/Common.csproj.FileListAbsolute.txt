@@ -1,0 +1,12 @@
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Common\obj\Debug\netcoreapp2.1\Common.pdb
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Common\bin\Debug\netcoreapp2.1\Model.dll
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Common\bin\Debug\netcoreapp2.1\Model.pdb
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Common\obj\Debug\netcoreapp2.1\Common.csproj.CopyComplete

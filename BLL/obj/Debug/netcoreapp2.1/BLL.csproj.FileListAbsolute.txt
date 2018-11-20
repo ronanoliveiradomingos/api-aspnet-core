@@ -1,0 +1,9 @@
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\BLL\bin\Debug\netcoreapp2.1\BLL.deps.json
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\BLL\bin\Debug\netcoreapp2.1\BLL.dll
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\BLL\bin\Debug\netcoreapp2.1\BLL.pdb
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\BLL\obj\Debug\netcoreapp2.1\BLL.csprojAssemblyReference.cache
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\BLL\obj\Debug\netcoreapp2.1\BLL.csproj.CoreCompileInputs.cache
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\BLL\obj\Debug\netcoreapp2.1\BLL.AssemblyInfoInputs.cache
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\BLL\obj\Debug\netcoreapp2.1\BLL.AssemblyInfo.cs
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\BLL\obj\Debug\netcoreapp2.1\BLL.dll
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\BLL\obj\Debug\netcoreapp2.1\BLL.pdb

@@ -1,0 +1,9 @@
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\bin\Debug\netcoreapp2.1\DAL.deps.json
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\bin\Debug\netcoreapp2.1\DAL.dll
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\bin\Debug\netcoreapp2.1\DAL.pdb
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\obj\Debug\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\obj\Debug\netcoreapp2.1\DAL.dll
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
