@@ -6,3 +6,4 @@ C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Util\obj\Debug\ne
 C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Util\obj\Debug\netcoreapp2.1\Util.AssemblyInfo.cs
 C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Util\obj\Debug\netcoreapp2.1\Util.dll
 C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Util\obj\Debug\netcoreapp2.1\Util.pdb
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Util\obj\Debug\netcoreapp2.1\Util.csprojAssemblyReference.cache

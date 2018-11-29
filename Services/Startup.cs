@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BLL;
+using Common;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -24,7 +26,13 @@ namespace Services
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddMvc();
+            services.AddSingleton(Configuration);
+
+            services.AddScoped<IRenderScoped, BLLRenderScoped>();
+            services.AddTransient<IRenderTransient, BLLRenderTransient>();
+
+            services.AddTransient<IPartner, BLLPartner>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

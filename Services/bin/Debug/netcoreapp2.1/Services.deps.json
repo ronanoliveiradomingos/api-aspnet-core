@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v2.1": {
       "Services/1.0.0": {
         "dependencies": {
+          "BLL": "1.0.0",
           "Common": "1.0.0",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.NETCore.App": "2.1.0",
@@ -514,6 +515,19 @@
           "System.Threading.Tasks": "4.3.0"
         }
       },
+      "BLL/1.0.0": {
+        "dependencies": {
+          "Common": "1.0.0",
+          "DAL": "1.0.0",
+          "Util": "1.0.0"
+        },
+        "runtime": {
+          "BLL.dll": {}
+        },
+        "compile": {
+          "BLL.dll": {}
+        }
+      },
       "Common/1.0.0": {
         "dependencies": {
           "Model": "1.0.0"
@@ -525,12 +539,31 @@
           "Common.dll": {}
         }
       },
+      "DAL/1.0.0": {
+        "dependencies": {
+          "Model": "1.0.0"
+        },
+        "runtime": {
+          "DAL.dll": {}
+        },
+        "compile": {
+          "DAL.dll": {}
+        }
+      },
       "Model/1.0.0": {
         "runtime": {
           "Model.dll": {}
         },
         "compile": {
           "Model.dll": {}
+        }
+      },
+      "Util/1.0.0": {
+        "runtime": {
+          "Util.dll": {}
+        },
+        "compile": {
+          "Util.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3659,12 +3692,27 @@
       "path": "system.linq.parallel/4.3.0",
       "hashPath": "system.linq.parallel.4.3.0.nupkg.sha512"
     },
+    "BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
+    "DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Util/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

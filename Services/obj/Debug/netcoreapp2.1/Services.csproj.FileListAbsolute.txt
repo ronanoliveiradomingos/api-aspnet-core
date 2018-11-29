@@ -17,3 +17,9 @@ C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Services\bin\Debu
 C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Services\bin\Debug\netcoreapp2.1\Common.pdb
 C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Services\bin\Debug\netcoreapp2.1\Model.pdb
 C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Services\bin\Debug\netcoreapp2.1\BLL.dll
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Services\bin\Debug\netcoreapp2.1\DAL.dll
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Services\bin\Debug\netcoreapp2.1\Util.dll
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Services\bin\Debug\netcoreapp2.1\BLL.pdb
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Services\bin\Debug\netcoreapp2.1\DAL.pdb
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\Services\bin\Debug\netcoreapp2.1\Util.pdb

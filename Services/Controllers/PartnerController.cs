@@ -14,7 +14,12 @@ namespace Services.Controllers
     [ApiController]
     public class PartnerController : ControllerBase
     {
-        private IPartner partner;
+        private readonly IPartner partner;
+
+        public PartnerController(IPartner iParter)
+        {
+            partner = iParter;
+        }
 
         // GET: api/Partner
         [HttpGet]

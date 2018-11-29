@@ -14,7 +14,17 @@ namespace BLL
 
         public async Task<PartnerOut> Get()
         {
-            throw new NotImplementedException();
+            var parter = new PartnerOut
+            {
+                Name = "Microsoft",
+                LastName = "Corporate",
+                Phone = "55 11 95859695",
+                Adress = "Av. Paulista",
+                City = "Sao Paulo",
+                Country = "Brazil"
+            };
+
+            return parter;
         }
 
         public async Task<PartnerOut> Get(int id)

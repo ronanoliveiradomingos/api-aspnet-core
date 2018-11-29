@@ -7,3 +7,6 @@ C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\obj\Debug\net
 C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
 C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\obj\Debug\netcoreapp2.1\DAL.dll
 C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\bin\Debug\netcoreapp2.1\Model.dll
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\bin\Debug\netcoreapp2.1\Model.pdb
+C:\projetos\git-ronanoliveiradomingos\api-aspnet-core\Services\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CopyComplete
