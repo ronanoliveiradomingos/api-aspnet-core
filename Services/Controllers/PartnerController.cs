@@ -14,11 +14,11 @@ namespace Services.Controllers
     [ApiController]
     public class PartnerController : ControllerBase
     {
-        private readonly IPartner partner;
+        private readonly IPartner _partner;
 
-        public PartnerController(IPartner iParter)
+        public PartnerController(IPartner partner)
         {
-            partner = iParter;
+            _partner = partner;
         }
 
         // GET: api/Partner
@@ -27,7 +27,7 @@ namespace Services.Controllers
         {
             try
             {
-                return await partner.Get();
+                return await _partner.Get();
             }
             catch (Exception ex)
             {
@@ -42,7 +42,7 @@ namespace Services.Controllers
         {
             try
             {
-                return await partner.Get(id);
+                return await _partner.Get(id);
             }
             catch (Exception ex)
             {
@@ -57,7 +57,7 @@ namespace Services.Controllers
         {
             try
             {
-                return await partner.Post(value);
+                return await _partner.Post(value);
             }
             catch (Exception ex)
             {
@@ -72,7 +72,7 @@ namespace Services.Controllers
         {
             try
             {
-                return await partner.Put(id, value);
+                return await _partner.Put(id, value);
             }
             catch (Exception ex)
             {
@@ -87,7 +87,7 @@ namespace Services.Controllers
         {
             try
             {
-                return await partner.Delete(id);
+                return await _partner.Delete(id);
             }
             catch (Exception ex)
             {

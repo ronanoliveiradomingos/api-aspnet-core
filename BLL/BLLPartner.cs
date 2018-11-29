@@ -7,6 +7,11 @@ namespace BLL
 {
     public class BLLPartner : IPartner
     {
+        public BLLPartner()
+        {
+
+        }
+
         public async Task<PartnerOut> Delete(int id)
         {
             throw new NotImplementedException();
